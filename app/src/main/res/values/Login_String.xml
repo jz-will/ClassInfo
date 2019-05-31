@@ -1,0 +1,9 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<resources>
+    <string name="login_name">账号：</string>
+    <string name="login_pwd">密码：</string>
+    <string name="login_inname">输入手机号码</string>
+    <string name="login_inpwd">输入密码</string>
+    <string name="bt_log">登陆</string>
+    <string name="bt_quit">退出</string>
+</resources>
